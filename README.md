@@ -1,2 +1,18 @@
 # Brain_tumor_detection_from_2D_MRI_images
-This is our dsp lab project for term 3_1. Here we are using traditional ML classifiers and deep learning models to classify brain mri images with or without tumors. All the codes and related documents is uploaded here for future reference.
+
+In this project we are handling a binary classification problem of distributing 2D MRI images into 2 classes : tumor vs non-tumor.
+
+## tools and technologies
+
+The whole project is done in google colab using ***python*** as programming language.
+
+Here is the list of libraries used in this project:
+
+1. Tensorflow and keras ( For deep learning CNN architecture and transfer learning)
+2. Opencv (image preprocessing)
+3. Scikit-image (image preprocessing)
+4. scikit-learn(Machine Learning)
+
+Related links used for getting help are added [here](Rescources_for_brain_tumor_detection.docx)
+
+The weights of the model used are save [here](https://drive.google.com/file/d/11VBQUV_LAZXhA7o-mHNJrQ_0JIdQDcyl/view?usp=sharing)
