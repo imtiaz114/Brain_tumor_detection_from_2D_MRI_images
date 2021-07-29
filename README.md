@@ -15,4 +15,4 @@ Here is the list of libraries used in this project:
 
 Related links used for getting help are added [here](Rescources_for_brain_tumor_detection.docx)
 
-The weights of the model used are save [here](https://drive.google.com/file/d/11VBQUV_LAZXhA7o-mHNJrQ_0JIdQDcyl/view?usp=sharing)
+The weights of the model used are saved [here](https://drive.google.com/file/d/11VBQUV_LAZXhA7o-mHNJrQ_0JIdQDcyl/view?usp=sharing)
