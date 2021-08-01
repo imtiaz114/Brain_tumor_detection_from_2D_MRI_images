@@ -17,7 +17,7 @@ Related links used for getting help are added [here](Rescources_for_brain_tumor_
 
 The weights of the model used are saved [here](https://drive.google.com/file/d/11VBQUV_LAZXhA7o-mHNJrQ_0JIdQDcyl/view?usp=sharing)
 
-## if the notebooks don't open
+## N.B.
 
 Sometimes it's possible the notebooks are not shown or asking to reload, to use these notebooks just download and open with anconda jupyter or any software that supports .ipynb file
 
